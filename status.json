@@ -1,6 +1,6 @@
 {
     "script":{
-        "status":"ON",
-        "version":"1.0.3"
+        "status":"OFF",
+        "version":"1.0.5"
     }
 }
